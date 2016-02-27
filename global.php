@@ -6,8 +6,6 @@ function mytest()
 global $x,$y;
 $z=$x+$y;
 echo "$z";
-echo "$z";
-echo "$z";
 }
 mytest();
 ?>
