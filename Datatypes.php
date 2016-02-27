@@ -1,6 +1,6 @@
 <?php
 $x="hello world";
-var_dump($x);
+var_dumper($x);
 $y=10;
 var_dump($y);
 $z=10.4;
